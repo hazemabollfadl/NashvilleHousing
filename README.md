@@ -10,8 +10,8 @@ The dataset includes various information related to Nashville (e.g., property da
 
 ## Tools and Technologies
     •       Microsoft SQL Server
-    •	T-SQL (Transact-SQL
-    •	Azure Data Studio 
+    •	T-SQL (Transact-SQL)
+    •	Azure Data Studio
 
 ## The repository contains the following files:
 
